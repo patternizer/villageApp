@@ -1,4 +1,4 @@
-![image](https://github.com/patternizer/birdpy/blob/master/title_frame.png)
+![image](https://github.com/patternizer/birdpy/blob/master/villageApp.png)
 
 # villageApp
 
